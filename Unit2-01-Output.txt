@@ -1,0 +1,27 @@
+
+Reversing all strings...
+
+The original string is:
+Hey, how are you?
+The reversed is:
+?uoy era woh ,yeH
+
+The original string is:
+racecar
+The reversed is:
+racecar
+
+The original string is:
+Palindromes are words that are spelt the same backwards.
+The reversed is:
+.sdrawkcab emas eht tleps era taht sdrow era semordnilaP
+
+The original string is:
+Semordnilap is for words that become a different word when read backwards.
+The reversed is:
+.sdrawkcab daer nehw drow tnereffid a emoceb taht sdrow rof si palindromeS
+
+The original string is:
+rats live on no evil star
+The reversed is:
+rats live on no evil star
